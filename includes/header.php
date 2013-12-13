@@ -17,152 +17,138 @@
 			}
 		echo '</ul>';
 	}
-
-
-	$pages = [
-		"solutions" => [
+	
+	$pages = array(
+		"solutions" => array(
 			"name" => "Solutions",
 			"description" => "Solutions description",
-			"children" => [
-				"omnichannel" => [
+			"children" => array(
+				"omnichannel" => array(
 					"name" => "omnichannel",
 					"description" => "Omnichannel description",
-				],
-				"mobile" => [
+				),
+				"mobile" => array(
 					"name" => "mobile",
 					"description" => "Mobile description",
-				],
-				"international" => [
+				),
+				"international" => array(
 					"name" => "international",
 					"description" => "International description",
-				],
-				"operational-excellence" => [
+				),
+				"operational-excellence" => array(
 					"name" => "Operational Excellence",
 					"description" => "Operational Excellence description",
-				],
-				"customer-engagement" => [
+				),
+				"customer-engagement" => array(
 					"name" => "Customer Engagement",
 					"description" => "Customer Engagement description",
-				]
-			]
-		],
-		"products" => [
+				)
+			)
+		),
+		"products" => array(
 			"name" => "products",
 			"description" => "Our full product set",
-			"children" => [
-				"store-and-pos" => [
+			"children" => array(
+				"store-and-pos" => array(
 					"name" => "store &amp; pos",
 					"description" => "Store &amp; Pos description",
-				],
-				"ecommerce" => [
+				),
+				"ecommerce" => array(
 					"name" => "ecommerce",
 					"description" => "Ecommerce description",
-				],
-				"supply-chain" => [
+				),
+				"supply-chain" => array(
 					"name" => "supply chain",
 					"description" => "Supply chain description",
-				],
-				"crm-and-loyalty" => [
+				),
+				"crm-and-loyalty" => array(
 					"name" => "CRM &amp; Loyalty",
 					"description" => "Description of all CRM &amp; loyalty products and tools.",
-				],
-				"retail-staff" => [
+				),
+				"retail-staff" => array(
 					"name" => "retail staff",
 					"description" => "Retail Staff description",
-				],
-				"managed-services" => [
+				),
+				"managed-services" => array(
 					"name" => "managed services",
 					"description" => "Managed Services description",
-				],
-				"networks-wifi-and-infrastructure" => [
+				),
+				"networks-wifi-and-infrastructure" => array(
 					"name" => "networks, wifi &amp; infrastructure",
 					"description" => "Networks, Wifi &amp; Infrastructure description",
-				],
-				"digital-marketing" => [
+				),
+				"digital-marketing" => array(
 					"name" => "Digital Marketing",
 					"description" => "Digital Marketing description",
-				]
-			]
-		],
-		"news" => [
+				)
+			)
+		),
+		"news" => array(
 			"name" => "news &amp; resources",
 			"description" => "News &amp; Resources description",
-			"children" => [
-				"events" => [
+			"children" => array(
+				"events" => array(
 					"name" => "events",
 					"description" => "Events description",
-				],
-				"blog" => [
+				),
+				"blog" => array(
 					"name" => "blog",
 					"description" => "Blog description",
-				],
-				"cases-and-whitepapers" => [
-					"name" => "case studies",
-					"description" => "Case studies description",
-				],
-				"whitepapers" => [
-					"name" => "whitepapers",
+				),
+				"cases-and-whitepapers" => array(
+					"name" => "cases &amp; whitepapers",
 					"description" => "Whitepapers description",
-				],
-				"press-releases" => [
+				),
+				"press-releases" => array(
 					"name" => "In the news",
 					"description" => "In the news description",
-				],
-				"videos" => [
+				),
+				"videos" => array(
 					"name" => "Videos",
 					"description" => "Videos description",
-				],
-				"enews" => [
-					"name" => "E-Newsletter",
-					"description" => "Register to recieve regular imdustry related news",
-				]
-			]
-		],
-		"about" => [
+				)
+			)
+		),
+		"about" => array(
 			"name" => "about us",
 			"description" => "About us description",
-			"children" => [
-				"customers" => [
+			"children" => array(
+				"customers" => array(
 					"name" => "customers",
 					"description" => "Customers description",
-				],
-				"partners" => [
+				),
+				"partners" => array(
 					"name" => "partners",
 					"description" => "Partners description",
-				],
-				"portfolio" => [
+				),
+				"portfolio" => array(
 					"name" => "Projects",
 					"description" => "Portfolio description",
-				],
-				"awards" => [
+				),
+				"awards" => array(
 					"name" => "awards",
 					"description" => "Awards description",
-				],
-				"careers" => [
+				),
+				"careers" => array(
 					"name" => "careers",
 					"description" => "Careers description",
-				]
-			]
-		],
-		"search" => [
-			"name" => "search",
-			"description" => "Search results",
-			],
-		"contact" => [
+				)
+			)
+		),
+		"contact" => array(
 			"name" => "Contact us",
 			"description" => "We'd like to hear from you",
-			]
-	];
+			),
+		"search" => array(
+			"name" => "search",
+			"description" => "Search results",
+			)
+	);
  ?>
 
-
-
-
 <header class="clearfix">
-	<a href="/" id="logo"><img src="http://localhost:8888/images/new-bt-expedite-logo.png"></a>
+	<a href="/" id="logo"><img src="/images/new-bt-expedite-logo.png" alt="BT Expedite"></a>
 	<nav class="main_navigation">
-		<?php print_menu($pages); ?>
+		<?php print_menu($pages,$parent); ?>
 	</nav>
 </header>
-
-<?php include('parts/page-options.php'); ?>
