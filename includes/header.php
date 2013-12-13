@@ -18,6 +18,7 @@
 		echo '</ul>';
 	}
 
+
 	$pages = [
 		"solutions" => [
 			"name" => "Solutions",
@@ -155,9 +156,13 @@
  ?>
 
 
+
+
 <header class="clearfix">
 	<a href="/" id="logo"><img src="http://localhost:8888/images/new-bt-expedite-logo.png"></a>
 	<nav class="main_navigation">
 		<?php print_menu($pages); ?>
 	</nav>
 </header>
+
+<?php include('parts/page-options.php'); ?>

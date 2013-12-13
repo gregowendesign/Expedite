@@ -14,7 +14,7 @@
 <div class="container">
 
 
-	<?php include("parts/clients.php"); ?>
+<?php include("parts/clients.php"); ?>
 
 
 <!-- Section 1-->

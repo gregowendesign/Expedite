@@ -49,7 +49,7 @@
 <!-- Sub-section 4 -->
 		<div class="row section">
 			<div class="col-md-6">
-				<a href="/solutions/products"><h2>Products/h2>
+				<a href="/solutions/products"><h2>Products</h2>
 				<p>Short teaser description. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, necessitatibus, illum, excepturi, accusamus illo quasi quibusdam perspiciatis repellat dolorem natus dolor hic quae quo ut sunt animi vitae aperiam repudiandae?</p>
 				<button>See More</button>
 			</div>
