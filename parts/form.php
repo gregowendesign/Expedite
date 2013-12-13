@@ -1,5 +1,6 @@
 
 	<div class="col-md-4">
+	<div class="col-md-6">
 		<h3>Send us a message</h3>
 		<form  action="" method="POST" enctype="multipart/form-data">
 	    <input type="hidden" name="action" value="submit"/> Your name:<br />
