@@ -10,31 +10,34 @@
 </div>
 <div class="container">
 
-
+<?php include('parts/intro-paragraph.php'); ?>
 <!-- Sub-section 1 -->
 	<div class="row whitepaper">
 		<div class="col-md-9">
-			<a href="/about/careers/job"><h2>Job name</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, necessitatibus, illum, excepturi, accusamus illo quasi quibusdam perspiciatis repellat dolorem natus dolor hic quae quo ut sunt animi vitae aperiam repudiandae?</p>
-			<button>More details</button></a>
+			<h2>Job name</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed congue libero, fermentum porttitor est. Sed et justo lobortis, pulvinar sapien et, tempor nisi. Mauris mollis vitae lorem iaculis varius. Ut non nibh orci. Curabitur ornare semper felis vitae iaculis. Praesent sed ante augue. Nulla rutrum mattis cursus. Quisque sodales metus velit, id imperdiet dolor sodales in. Ut sit amet sapien quis mauris dictum aliquam. Aenean ut fringilla erat, nec sollicitudin orci.</p> 
+
+			<button>Apply</button>
 		</div>
 	</div>
 
 <!-- Sub-section 2 -->
 	<div class="row whitepaper">
 		<div class="col-md-9">
-			<a href="/about/careers/job"><h2>Job name</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, necessitatibus, illum, excepturi, accusamus illo quasi quibusdam perspiciatis repellat dolorem natus dolor hic quae quo ut sunt animi vitae aperiam repudiandae?</p>
-			<button>More details</button></a>
+			<h2>Job name</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed congue libero, fermentum porttitor est. Sed et justo lobortis, pulvinar sapien et, tempor nisi. Mauris mollis vitae lorem iaculis varius. Ut non nibh orci. Curabitur ornare semper felis vitae iaculis. Praesent sed ante augue. Nulla rutrum mattis cursus. Quisque sodales metus velit, id imperdiet dolor sodales in. Ut sit amet sapien quis mauris dictum aliquam. Aenean ut fringilla erat, nec sollicitudin orci.</p> 
+
+			<button>Apply</button>
 		</div>
 	</div>
 
 <!-- Sub-section 3 -->
 	<div class="row whitepaper">
 		<div class="col-md-9">
-			<a href="/about/careers/job"><h2>Job name</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, necessitatibus, illum, excepturi, accusamus illo quasi quibusdam perspiciatis repellat dolorem natus dolor hic quae quo ut sunt animi vitae aperiam repudiandae?</p>
-			<button>More details</button></a>
+			<h2>Job name</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed congue libero, fermentum porttitor est. Sed et justo lobortis, pulvinar sapien et, tempor nisi. Mauris mollis vitae lorem iaculis varius. Ut non nibh orci. Curabitur ornare semper felis vitae iaculis. Praesent sed ante augue. Nulla rutrum mattis cursus. Quisque sodales metus velit, id imperdiet dolor sodales in. Ut sit amet sapien quis mauris dictum aliquam. Aenean ut fringilla erat, nec sollicitudin orci.</p> 
+
+			<button>Apply</button>
 		</div>
 	</div>
 
@@ -42,44 +45,19 @@
 	<div class="row whitepaper">
 	
 		<div class="col-md-9">
-			<a href="/about/careers/job"><h2>Job name</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, necessitatibus, illum, excepturi, accusamus illo quasi quibusdam perspiciatis repellat dolorem natus dolor hic quae quo ut sunt animi vitae aperiam repudiandae?</p>
-			<button>More details</button></a>
+			<h2>Job name</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed congue libero, fermentum porttitor est. Sed et justo lobortis, pulvinar sapien et, tempor nisi. Mauris mollis vitae lorem iaculis varius. Ut non nibh orci. Curabitur ornare semper felis vitae iaculis. Praesent sed ante augue. Nulla rutrum mattis cursus. Quisque sodales metus velit, id imperdiet dolor sodales in. Ut sit amet sapien quis mauris dictum aliquam. Aenean ut fringilla erat, nec sollicitudin orci.</p> 
+
+			<button>Apply</button>
 		</div>
 	</div>
 <!-- Sub-section 5 -->
 	<div class="row whitepaper">
 		<div class="col-md-9">
-			<a href="/about/careers/job"><h2>Job name</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, necessitatibus, illum, excepturi, accusamus illo quasi quibusdam perspiciatis repellat dolorem natus dolor hic quae quo ut sunt animi vitae aperiam repudiandae?</p>
-			<button>More details</button></a>
-		</div>
-	</div>
+			<h2>Job name</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed congue libero, fermentum porttitor est. Sed et justo lobortis, pulvinar sapien et, tempor nisi. Mauris mollis vitae lorem iaculis varius. Ut non nibh orci. Curabitur ornare semper felis vitae iaculis. Praesent sed ante augue. Nulla rutrum mattis cursus. Quisque sodales metus velit, id imperdiet dolor sodales in. Ut sit amet sapien quis mauris dictum aliquam. Aenean ut fringilla erat, nec sollicitudin orci.</p> 
 
-<!-- Sub-section 6 -->
-	<div class="row whitepaper">
-		<div class="col-md-9">
-			<a href="/about/careers/job"><h2>Job name</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, necessitatibus, illum, excepturi, accusamus illo quasi quibusdam perspiciatis repellat dolorem natus dolor hic quae quo ut sunt animi vitae aperiam repudiandae?</p>
-			<button>More details</button></a>
-		</div>
-	</div>
-
-<!-- Sub-section 7 -->
-	<div class="row whitepaper">
-		<div class="col-md-9">
-			<a href="/about/careers/job"><h2>Job name</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, necessitatibus, illum, excepturi, accusamus illo quasi quibusdam perspiciatis repellat dolorem natus dolor hic quae quo ut sunt animi vitae aperiam repudiandae?</p>
-			<button>More details</button></a>
-		</div>
-	</div>
-
-<!-- Sub-section 8 -->
-	<div class="row whitepaper">
-		<div class="col-md-9">
-			<a href="/about/careers/job"><h2>Job name</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, necessitatibus, illum, excepturi, accusamus illo quasi quibusdam perspiciatis repellat dolorem natus dolor hic quae quo ut sunt animi vitae aperiam repudiandae?</p>
-			<button>More details</button></a>
+			<button>Apply</button>
 		</div>
 	</div>
 </div>

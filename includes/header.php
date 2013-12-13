@@ -150,7 +150,7 @@
 			],
 		"contact" => [
 			"name" => "Contact us",
-			"description" => "Let us help you",
+			"description" => "We'd like to hear from you",
 			]
 	];
  ?>

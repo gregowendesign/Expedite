@@ -3,6 +3,14 @@
 		<div class="col-small-12 col-md-8">
 			<h2>Case study</h2>
 			<h3>Description of what this case study is about</h3>
+
+			<div class="row">
+				<div class="col-md-4">
+					<img src="http://placehold.it/80">&nbsp;&nbsp;Client name
+				</div>
+			</div>
+			<?php include('parts/intro-paragraph.php'); ?>
+
 			<img class="postImage" src="http://placehold.it/600x300" alt="">
 			<p>
 				<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, commodi, quis, aspernatur doloremque adipisci earum officiis aperiam assumenda maxime voluptatibus amet itaque alias esse laudantium eum tenetur natus voluptatum autem.</span>

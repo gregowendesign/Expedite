@@ -1,5 +1,5 @@
 <!-- Case studies -->
-
+<div class="section">
 	<div class="container">
 		<div class="row">
 			<h2>Facts &amp; Figures</h2>
@@ -17,3 +17,4 @@
 			</div>									
 		</div>
 	</div>
+</div>

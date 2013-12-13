@@ -78,6 +78,7 @@ iframe.hero {margin-top: 200px; }
 p.footer {text-align: center; color: white; margin-top: 50px; font-size: 1.6em; }
 
 .centred {text-align: center; border-bottom: 1px solid grey;padding-bottom: 50px;}
+.centred {text-align: center; padding-bottom: 50px;}
 
 p.intro {font-size: 2.0em; line-height: 1.5em; margin: 50px 0;}
 
@@ -95,5 +96,10 @@ p.intro {font-size: 2.0em; line-height: 1.5em; margin: 50px 0;}
 .floating a {color: #fff;}
 
 .floating ul {list-style: none; margin-left: -40px;}
+
+.photos {margin: 20px 0;}
+
+
+
 
 

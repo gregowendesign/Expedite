@@ -14,6 +14,7 @@
 
 <?php include('parts/stats-and-facts.php'); ?>
 
+<?php include('parts/quote.php'); ?>
 
 <!-- Sub-section 1 -->
 		<div class="row section">

@@ -2,12 +2,21 @@
 	<div class="row">
 		<div class="col-small-12 col-md-8">
 			<h2>Blog post title</h2>
-			<h3>Excerpt of this blog post</h3>
-			<img class="postImage" src="http://placehold.it/600x300" alt="">
+			<h4>01st January 2014</h4>
+			<div class="row">
+				<div class="col-md-4">
+					<img src="http://placehold.it/80">&nbsp;&nbsp;by Don Draper
+				</div>
+			</div>
+			<?php include('parts/intro-paragraph.php'); ?>
+
 			<p>
 				<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, commodi, quis, aspernatur doloremque adipisci earum officiis aperiam assumenda maxime voluptatibus amet itaque alias esse laudantium eum tenetur natus voluptatum autem.</span>
 				<span>Eveniet, mollitia, voluptas perferendis dicta minus nam cupiditate nemo dolor repellat iure nesciunt nulla asperiores vel cum minima odio porro. Expedita, nemo, accusamus illum quo vero natus ducimus dolor dolorum.</span>
 				<span>Explicabo, modi, est odio quasi neque recusandae quas dolorem fugit rem officia! Delectus, quasi, eaque culpa velit magnam alias obcaecati in a similique ex! Totam, sit eligendi earum qui ducimus?</span>
+				
+				<img class="postImage" src="http://placehold.it/600x300" alt="">
+
 				<span>Maxime, eligendi qui iusto facilis voluptas placeat pariatur! Ipsa distinctio illum odio harum deserunt quibusdam repellendus obcaecati. Aliquam, non omnis nesciunt quasi ratione illum laboriosam earum necessitatibus eum dicta. Labore.</span>
 				<span>Omnis, pariatur iste eligendi amet ipsum unde ut quos at. Iure, doloremque, voluptates illum dolorem aliquam fugit eius sunt facilis laboriosam necessitatibus eligendi cum amet alias ut voluptatem quis assumenda.</span>
 				<span>Unde, alias, atque, nostrum delectus harum voluptatem asperiores cum deserunt minima a excepturi exercitationem temporibus assumenda dolorem aperiam tenetur amet officia minus inventore quae eligendi accusamus cumque optio id quaerat.</span>

@@ -4,8 +4,7 @@
 	</div>
 </footer>
 <footer class="clearfix fullWidth grey">
-	<div class="container">
-		<h3>Enewsletter</h3>
-			<?php include("parts/enews.php"); ?>
-	</div>
+	
+	<?php include("parts/enews.php"); ?>
+
 </footer>

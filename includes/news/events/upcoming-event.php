@@ -1,14 +1,12 @@
 <div class="container">
 		<h2>Event name</h2>
 		<h3>01.01.2014</h3>
-		<div class="col-md-12">
-			<img src="http://placehold.it/960x200">
-		</div>
+			<div class="col-md-12">
+				<img src="http://placehold.it/960x300">
+			</div>
 
-		<div class="row" style="padding-bottom:50px;"></div>
+		<?php include('parts/intro-paragraph.php'); ?>
 
-		<p style="font-size:large; padding-bottom:50px;">Short excerpt description - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, necessitatibus, illum, excepturi, accusamus illo quasi quibusdam perspiciatis repellat dolorem natus dolor hic quae quo ut sunt animi vitae aperiam repudiandae?</p>
-		
 		<div class="col-md-7">
 			<p>
 				<span>Full description - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, commodi, quis, aspernatur doloremque adipisci earum officiis aperiam assumenda maxime voluptatibus amet itaque alias esse laudantium eum tenetur natus voluptatum autem.</span>
@@ -32,6 +30,7 @@
 		</div>
 		<div class="col-md-3 col-md-offset-1">
 			<h3>More</h3>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2476.766616945543!2d-0.7474615000000001!3d51.6274842!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487661c54c4306cd%3A0xc2db4615e1dae329!2sSt+John%E2%80%99s+Court+Easton+Street+High+Wycombe+HP11+1JX!5e0!3m2!1sen!2suk!4v1386946222049" width="400" height="300" frameborder="0" style="border:0"></iframe>
 			<ul>
 				<li><a href="">Contact us for more information</a></li>
 				<li><a href="">Print</a></li>

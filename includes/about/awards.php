@@ -10,58 +10,62 @@
 </div>
 <div class="container">
 	<div class="row customers">
-		<div class="col-md-2">
-			<img src="http://placehold.it/150">
+		<div class="col-md-4">
+			<img src="http://placehold.it/350x150">
 			<h3>Award</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget sagittis odio. Nunc augue mauris, hendrerit nec risus id, pellentesque bibendum erat. Praesent dignissim dapibus leo. Pellentesque sodales est odio, vitae molestie nulla vulputate vitae.</p> 
 		</div>
-		<div class="col-md-2">
-			<img src="http://placehold.it/150">
+
+		<div class="col-md-4">
+			<img src="http://placehold.it/350x150">
 			<h3>Award</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget sagittis odio. Nunc augue mauris, hendrerit nec risus id, pellentesque bibendum erat. Praesent dignissim dapibus leo. Pellentesque sodales est odio, vitae molestie nulla vulputate vitae.</p> 
 		</div>
-		<div class="col-md-2">
-			<img src="http://placehold.it/150">
+
+		<div class="col-md-4">
+			<img src="http://placehold.it/350x150">
 			<h3>Award</h3>
-		</div>
-		<div class="col-md-2">
-			<img src="http://placehold.it/150">
-			<h3>Award</h3>
-		</div>	
-		<div class="col-md-2">
-			<img src="http://placehold.it/150">
-			<h3>Award</h3>
-		</div>
-		<div class="col-md-2">
-			<img src="http://placehold.it/150">
-			<h3>Award</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget sagittis odio. Nunc augue mauris, hendrerit nec risus id, pellentesque bibendum erat. Praesent dignissim dapibus leo. Pellentesque sodales est odio, vitae molestie nulla vulputate vitae.</p> 
 		</div>
 	</div>
 	<div class="row customers">
-		<div class="col-md-2">
-			<img src="http://placehold.it/150">
+		<div class="col-md-4">
+			<img src="http://placehold.it/350x150">
 			<h3>Award</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget sagittis odio. Nunc augue mauris, hendrerit nec risus id, pellentesque bibendum erat. Praesent dignissim dapibus leo. Pellentesque sodales est odio, vitae molestie nulla vulputate vitae.</p> 
 		</div>
-		<div class="col-md-2">
-			<img src="http://placehold.it/150">
+
+		<div class="col-md-4">
+			<img src="http://placehold.it/350x150">
 			<h3>Award</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget sagittis odio. Nunc augue mauris, hendrerit nec risus id, pellentesque bibendum erat. Praesent dignissim dapibus leo. Pellentesque sodales est odio, vitae molestie nulla vulputate vitae.</p> 
 		</div>
-		<div class="col-md-2">
-			<img src="http://placehold.it/150">
+
+		<div class="col-md-4">
+			<img src="http://placehold.it/350x150">
 			<h3>Award</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget sagittis odio. Nunc augue mauris, hendrerit nec risus id, pellentesque bibendum erat. Praesent dignissim dapibus leo. Pellentesque sodales est odio, vitae molestie nulla vulputate vitae.</p> 
 		</div>
-		<div class="col-md-2">
-			<img src="http://placehold.it/150">
+	</div>	
+	<div class="row customers">
+		<div class="col-md-4">
+			<img src="http://placehold.it/350x150">
 			<h3>Award</h3>
-		</div>	
-		<div class="col-md-2">
-			<img src="http://placehold.it/150">
-			<h3>Award</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget sagittis odio. Nunc augue mauris, hendrerit nec risus id, pellentesque bibendum erat. Praesent dignissim dapibus leo. Pellentesque sodales est odio, vitae molestie nulla vulputate vitae.</p> 
 		</div>
-		<div class="col-md-2">
-			<img src="http://placehold.it/150">
+
+		<div class="col-md-4">
+			<img src="http://placehold.it/350x150">
 			<h3>Award</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget sagittis odio. Nunc augue mauris, hendrerit nec risus id, pellentesque bibendum erat. Praesent dignissim dapibus leo. Pellentesque sodales est odio, vitae molestie nulla vulputate vitae.</p> 
+		</div>
+
+		<div class="col-md-4">
+			<img src="http://placehold.it/350x150">
+			<h3>Award</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget sagittis odio. Nunc augue mauris, hendrerit nec risus id, pellentesque bibendum erat. Praesent dignissim dapibus leo. Pellentesque sodales est odio, vitae molestie nulla vulputate vitae.</p> 
 		</div>
 	</div>
 </div>
 
-<?php include('parts/related-blog.php'); ?>
 
